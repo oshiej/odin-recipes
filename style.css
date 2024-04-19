@@ -11,14 +11,20 @@ h1 {
     font-size: 28px;
 }
 
+
 .recipe-link {
     background-color: rgb(255, 0, 234);
 }
 
-p {
+.blank-space {
     background-color: red;
+    text-align: center;
 }
 
+.writing {
+    text-align: center;
+    font-weight: bold;
+}
 /* recipe-link overrides p because recipe-link is a class and p is a type
 
 Universal tag * sets font for webpage but can be overridden by any other command
