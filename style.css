@@ -1,0 +1,26 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    background-color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 28px;
+}
+
+.recipe-link {
+    background-color: rgb(255, 0, 234);
+}
+
+p {
+    background-color: red;
+}
+
+/* recipe-link overrides p because recipe-link is a class and p is a type
+
+Universal tag * sets font for webpage but can be overridden by any other command
+as it has the lowest level of specificity
+*/

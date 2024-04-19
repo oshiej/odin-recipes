@@ -13,3 +13,11 @@ possible. I will also be making sure to be commiting often to git and
 uploading my work to Github.
 
 This is my first coding project, hopefully not the last lol 
+
+UPDATE:
+I am now going back and editing my HTML recipe website with CSS. 
+Things I will be modifying include color of fonts, font types and sizes, 
+background colour etc. This will also be good practise for using selectors,
+the cascade, different elements etc. 
+
+I will be using CSS externally for this exercise. 
