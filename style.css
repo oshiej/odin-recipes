@@ -1,14 +1,18 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
+    box-sizing: border-box;
+    margin: 16px;
+    padding: 8px;
 }
 
 h1 {
-    background-color: green;
+    background-color: rgb(0, 251, 255);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     font-weight: bolder;
     font-size: 28px;
+    padding: 8px;
 }
 
 
@@ -30,3 +34,7 @@ h1 {
 Universal tag * sets font for webpage but can be overridden by any other command
 as it has the lowest level of specificity
 */
+
+button {
+background-color: red;
+}
