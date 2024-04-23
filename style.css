@@ -33,6 +33,8 @@ h1 {
 
 Universal tag * sets font for webpage but can be overridden by any other command
 as it has the lowest level of specificity
+
+NOTE: all of these classes now do nothing, leaving here for reference and to see improvements
 */
 
 button {
@@ -66,3 +68,4 @@ li {
 h3 {
     background-color: khaki;
 }
+
