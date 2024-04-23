@@ -43,7 +43,12 @@ div {
     max-width: fit-content;
     margin-inline: auto;
 }
-
-
 /* margin-inline: auto centers the button by making the left and right margins equal in size.
-max-width: fit-content is locking the width of the element to match the size of the content. 
+max-width: fit-content is locking the width of the element to match the size of the content. */
+
+img {
+    margin-inline: auto;
+    display: block;
+}
+
+/* img needs to be set to block in order to be centered */
