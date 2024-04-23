@@ -54,11 +54,15 @@ img {
 /* img needs to be set to block in order to be centered */
 
 h2 {
-    text-align: center;
+    background-color: khaki;
 }
 
 /* need to use text align instead of margin-inline to center h2 */
 
 li {
     margin: 0
+}
+
+h3 {
+    background-color: khaki;
 }
