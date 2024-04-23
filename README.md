@@ -21,3 +21,7 @@ background colour etc. This will also be good practise for using selectors,
 the cascade, different elements etc. 
 
 I will be using CSS externally for this exercise. 
+
+UPDATE:
+I have since edited this again using more appropitate tags and selectors, as well as making
+adjustments with margins to make the pages look nicer :)
