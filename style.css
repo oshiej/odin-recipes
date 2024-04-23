@@ -44,5 +44,6 @@ div {
     margin-inline: auto;
 }
 
+
 /* margin-inline: auto centers the button by making the left and right margins equal in size.
 max-width: fit-content is locking the width of the element to match the size of the content. 
